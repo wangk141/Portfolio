@@ -4,7 +4,7 @@ body {
     background-image: url("images/mountains.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 h1 {
