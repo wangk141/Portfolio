@@ -1,7 +1,8 @@
 body {
-    min-height: 100vh;
-    max-width: 100vw;
+    max-height: 100%;
+    max-width: 100%;
     background-image: url("images/mountains.jpg");
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     overflow: hidden;
 }
