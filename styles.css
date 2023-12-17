@@ -14,6 +14,7 @@ h1 {
 
 p {
     color: wheat;
+    text-align: center;
 }
 
 .container{
@@ -31,26 +32,4 @@ p {
 span {
     color: rgb(19, 153, 216);
 }
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
-}
 
-a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
-}
