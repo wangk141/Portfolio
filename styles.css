@@ -2,7 +2,7 @@ body {
     max-height: 100%;
     max-width: 100%;
     background-image: url("images/mountains.jpg");
-    background-size: 100% 100%;
+    background-size: 75% 75%;
     background-repeat: no-repeat;
     overflow: hidden;
 }
