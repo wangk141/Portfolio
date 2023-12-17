@@ -11,6 +11,22 @@ h1 {
 p {
     color: wheat;
 }
+
+.container{
+    width: 100%;
+    height: 100vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container h1 {
+    font-size: 60px;
+}
+span {
+    color: rgb(19, 153, 216);
+}
 a:link {
   color: green;
   background-color: transparent;
