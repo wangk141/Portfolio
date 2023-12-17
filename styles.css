@@ -1,5 +1,7 @@
 body {
-    background-color: black;
+    background-image: url("images/mountains.jpg");
+    opacity: 0.5;
+    background-repeat: no-repeat;
 }
 
 h1 {
