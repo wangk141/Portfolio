@@ -8,8 +8,8 @@ body {
 }
 
 h1 {
-    color: white;
-    text-align: center;
+    position: relative;
+    padding: 0 2rem;
 }
 
 p {
@@ -33,3 +33,31 @@ span {
     color: rgb(19, 153, 216);
 }
 
+li {
+    list-style: none;
+    color: white;
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
