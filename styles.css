@@ -48,7 +48,7 @@ a:link {
     text-decoration: none;
     text-align: center;
 }
-#github:hover{
+#github a:hover{
     display: block;
     height: 40px;
     width: 100px;
