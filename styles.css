@@ -66,6 +66,6 @@ a:active {
     display: flex;
     gap: 2rem;
     position: absolute;
-    left: 10;
-    top: 10;
+    left: 0;
+    top: 0;
 }
