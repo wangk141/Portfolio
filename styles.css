@@ -46,6 +46,7 @@ a:link {
     color: white;
     background-color: rgb(16, 153, 216);
     text-decoration: none;
+    text-align: center;
 }
 
 a:hover {
