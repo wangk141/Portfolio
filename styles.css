@@ -39,7 +39,7 @@ li {
 }
 
 a:link {
-    display: block;
+    display: flexbox;
     height: 40px;
     width: 100px;
     border-radius: 5px;
