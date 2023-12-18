@@ -39,21 +39,25 @@ li {
 }
 
 a:link {
-  color: white;
-  background-color: transparent;
-  text-decoration: none;
+    display: block;
+    height: 80px;
+    width: 250px;
+    border-radius: 5px;
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
 }
 
 a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: none;
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
 }
 
 a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
 }
 
 .position {
@@ -68,11 +72,4 @@ a:active {
     position: absolute;
     right: 5%;
     top: 0;
-}
-
-.toggle_button {
-    position: absolute;
-    right: 10%;
-    top: 0;
-    font-size: 30px;
 }
