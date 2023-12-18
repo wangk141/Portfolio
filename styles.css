@@ -60,12 +60,12 @@ a:active {
     font-size: 30px;
     display: flex;
     align-items: center;
-    position: absolute;
-    left: 10;
-    top: 10;
 }
 
 .position .links{
     display: flex;
     gap: 2rem;
+    position: absolute;
+    left: 10;
+    top: 10;
 }
