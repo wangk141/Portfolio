@@ -56,7 +56,7 @@ a:hover {
     border-radius: 5px;
     color: transparent;
     background-image: url("images/github.png");
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     text-decoration: none;
     text-align: center;
