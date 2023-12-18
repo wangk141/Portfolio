@@ -61,7 +61,7 @@ a:active {
     display: flex;
     align-items: center;
     position: absolute;
-    right: 10;
+    left: 10;
     top: 10;
 }
 
