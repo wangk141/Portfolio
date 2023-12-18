@@ -39,7 +39,7 @@ li {
 }
 
 a:link {
-    display: flexbox;
+    display: box;
     height: 40px;
     width: 100px;
     border-radius: 5px;
@@ -47,7 +47,7 @@ a:link {
     background-color: rgb(85, 90, 92);
     text-decoration: none;
     text-align: center;
-    line-height: 45px;
+    vertical-align: middle;
 
 }
 .position .links li:nth-child(1) a:hover {
