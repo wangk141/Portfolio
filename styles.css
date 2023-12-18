@@ -58,6 +58,7 @@ a:hover {
     background-image: url("images/github.png");
     background-size: contain;
     background-position: center;
+    background-repeat: no-repeat;
     text-decoration: none;
     text-align: center;
 }
