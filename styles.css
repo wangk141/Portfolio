@@ -48,7 +48,7 @@ a:link {
     text-decoration: none;
     text-align: center;
 }
-#github a:hover{
+.position .links li:nth-child(1) a:hover {
     display: block;
     height: 40px;
     width: 100px;
