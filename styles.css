@@ -47,7 +47,7 @@ a:link {
     background-color: rgb(85, 90, 92);
     text-decoration: none;
     text-align: center;
-    line-height: normal;
+    line-height: 50vh;
 
 }
 .position .links li:nth-child(1) a:hover {
