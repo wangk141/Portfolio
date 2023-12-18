@@ -39,7 +39,7 @@ li {
 }
 
 a:link {
-    display: box;
+    display: block;
     height: 40px;
     width: 100px;
     text-align: center;
