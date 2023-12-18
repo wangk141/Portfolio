@@ -40,11 +40,11 @@ li {
 
 a:link {
     display: block;
-    height: 80px;
-    width: 250px;
+    height: 40px;
+    width: 80px;
     border-radius: 5px;
     color: white;
-    background-color: transparent;
+    background-color: rgb(16, 153, 216);
     text-decoration: none;
 }
 
