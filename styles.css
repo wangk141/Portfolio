@@ -50,9 +50,16 @@ a:link {
 }
 
 a:hover {
-    color: red;
-    background-color: transparent;
+    display: block;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    color: white;
+    background-image: url("images/github.png");
+    background-size: cover;
+    background-position: center;
     text-decoration: none;
+    text-align: center;
 }
 
 a:active {
