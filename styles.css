@@ -54,6 +54,7 @@ a:link {
     width: 100px;
     border-radius: 5px;
     color: transparent;
+    background-color: white;
     background-image: url("images/github.png");
     background-size: contain;
     background-position: center;
@@ -62,10 +63,34 @@ a:link {
     text-align: center;
 }
 
-.position {
-    font-size: 30px;
-    display: flex;
-    align-items: center;
+.position .links li:nth-child(2) a:hover {
+    display: block;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    color: transparent;
+    background-color: white;
+    background-image: url("images/resume.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-decoration: none;
+    text-align: center;
+}
+
+.position .links li:nth-child(3) a:hover {
+    display: block;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    color: transparent;
+    background-color: white;
+    background-image: url("images/email.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-decoration: none;
+    text-align: center;
 }
 
 .position .links{
