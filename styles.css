@@ -103,3 +103,7 @@ a:link {
     right: 5%;
     top: 0;
 }
+
+a:active {
+    color: white;
+}
