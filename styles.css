@@ -54,18 +54,12 @@ a:hover {
     height: 40px;
     width: 100px;
     border-radius: 5px;
-    color: white;
+    color: transparent;
     background-image: url("images/github.png");
     background-size: cover;
     background-position: center;
     text-decoration: none;
     text-align: center;
-}
-
-a:active {
-    color: yellow;
-    background-color: transparent;
-    text-decoration: underline;
 }
 
 .position {
