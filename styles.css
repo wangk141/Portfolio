@@ -44,10 +44,11 @@ a:link {
     width: 100px;
     border-radius: 5px;
     color: white;
-    background-color: rgb(16, 153, 216);
+    background-color: rgb(85, 90, 92);
     text-decoration: none;
     text-align: center;
     justify-content: center;
+
 }
 .position .links li:nth-child(1) a:hover {
     display: block;
