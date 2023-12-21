@@ -21,8 +21,9 @@ p {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 5rem;
-    height: 5rem;
+    width: 10rem;
+    height: 10rem;
+    object-fit: cover;
 }
 
 .container{
