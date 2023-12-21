@@ -1,3 +1,4 @@
+/* background settings */
 body {
     max-height: 100%;
     max-width: 100%;
@@ -6,17 +7,18 @@ body {
     background-repeat: no-repeat;
     overflow-x: hidden;
 }
-
+/* name */
 h1 {
     text-align: center;
     padding: 0;
 }
-
+/* about me*/
 p {
     color: wheat;
     text-align: center;
+    font-size: ;
 }
-
+/* profile picture */
 .center {
     display: block;
     margin-left: auto;
@@ -26,7 +28,7 @@ p {
     border-radius: 50%;
     object-fit: cover;
 }
-
+/* Typing */
 .container{
     width: 100%;
     height: 10rem;
@@ -43,6 +45,7 @@ span {
     color: rgb(19, 153, 216);
 }
 
+/* links */
 li {
     list-style: none;
     color: white;
