@@ -123,11 +123,13 @@ a:visited {
 
 /* projects */
 .split {
-    height: auto;
-    width: 40%;
-    position: relative;
-    margin-top: 20px; /* Add margin to separate from the content above */
+    height: 50%;
+    width: 50%;
+    position: fixed;
+    z-index: -1;
+    top: 100%;
     overflow-x: hidden;
+    padding-top: 20px;
   }
   
   /* Control the left side */
